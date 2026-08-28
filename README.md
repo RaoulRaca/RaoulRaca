@@ -35,7 +35,7 @@ que escribo vive en producción sobre Next.js + Supabase, desplegado en Vercel.
 | Proyecto | Qué es | Stack | Enlace |
 | --- | --- | --- | --- |
 | **VetSysCore** | Sistema de gestión para clínicas veterinarias: pacientes, citas y métricas | Next.js · TypeScript · Supabase | [vetsyscore.com](https://vetsyscore.com) |
-| **Ana Ramos Consultorio** | Control de pacientes y agenda para consultorio médico | Next.js · TypeScript · Supabase | [Ver sitio](https://ana-ramos-consultorio.vercel.app) |
+| **Ana Ramos Consultorio** | Sistema para consultorio de nutrición: expediente, antropometría, planes alimenticios y agenda sincronizada con Google Calendar | Next.js · TypeScript · Supabase | [Ver sitio](https://ana-ramos-consultorio.vercel.app) |
 | **BarberCore** | SaaS **multi-tenant** de citas para barberías: cada dueño tiene su panel y su link público de reservas, aislados por `tenant_id` + RLS | Next.js · TypeScript · Supabase | [Ver demo](https://barber-core.vercel.app) |
 | **Raudex Systems** | Sitio de la empresa con formulario de contacto real (Resend), captcha invisible y rate limiting | HTML · CSS · JS · Vercel Functions | [raudexsystems.com](https://raudexsystems.com) |
 
