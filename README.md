@@ -26,7 +26,7 @@ que escribo vive en producción sobre Next.js + Supabase, desplegado en Vercel.
 - 🧰 **Stack diario** — Next.js (App Router), TypeScript, Tailwind, Supabase (PostgreSQL + RLS), Vercel
 - 🧠 **Me interesa** — arquitectura multi-tenant, Row Level Security en Postgres y UI que se sienta rápida
 - 🎓 **Formación** — Ingeniería en Software en UPAEP (generación 2029) · [conóceme a fondo](https://github.com/RaoulRaca/sobre-mi)
-- 💬 **Hablemos** — [raudexsystems.com](https://raudexsystems.com)
+- 💬 **Hablemos** — [raudexsystems.com](https://raudexsystems.com) · [raoulema2802@gmail.com](mailto:raoulema2802@gmail.com)
 
 ---
 
